@@ -1,2 +1,2 @@
-# DrumKit-Pub-ish
-A Fun Drum Kit to Create some Sick Beats!
+# js-drum-kit
+Start Code for JS Drum Kit Example
